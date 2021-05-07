@@ -1,5 +1,5 @@
 # simpleLineFollower
-A simple Line Follower Robot with 2 Infrared Sensor
+A simple line follower robot with 2 infrared sensors
 | Components          |
 | -------------------|
 | Arduino Nano        |
